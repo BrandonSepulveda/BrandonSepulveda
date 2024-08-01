@@ -8,14 +8,19 @@
 
 
 
-![](https://img.shields.io/badge/OS-Windows-black?style=for-the-badge&logo=windows) ![](https://img.shields.io/badge/Editor-Visual%20Studio%20/%20Code-black?style=for-the-badge&logo=visualstudio)
-![](https://img.shields.io/badge/Editor-Sublime%20Text-black?style=for-the-badge&logo=sublimetext) [](https://img.shields.io/badge/Shell-BASH-black?style=for-the-badge&logo=gnometerminal) ![](https://img.shields.io/badge/Shell-Command%20Prompt-black?style=for-the-badge&logo=windowsterminal)
+![](https://img.shields.io/badge/OS-Windows-black?style=for-the-badge&logo=windows) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+![](https://img.shields.io/badge/Editor-Visual%20Studio%20/%20Code-black?style=for-the-badge&logo=visualstudio)
+![](https://img.shields.io/badge/Editor-Sublime%20Text-black?style=for-the-badge&logo=sublimetext) 
+
+[](https://img.shields.io/badge/Shell-BASH-black?style=for-the-badge&logo=gnometerminal) ![](https://img.shields.io/badge/Shell-Command%20Prompt-black?style=for-the-badge&logo=windowsterminal) ![](https://img.shields.io/badge/Shell-BASH-black?style=for-the-badge&logo=gnometerminal)
+![](https://img.shields.io/badge/Code-.NET-blackt?style=for-the-badge&logo=dotnet)
+![](https://img.shields.io/badge/Code-Python-black?style=for-the-badge&logo=python)
 
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
 
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
   <div align="center">
     <h1>Contribution Activity</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=BrandonSepulveda&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
